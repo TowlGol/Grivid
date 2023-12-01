@@ -1,0 +1,66 @@
+{
+	"Imvisd": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory"
+		}],
+		"Interaction": [{
+			"name": "Filter",
+			"function": "filter",
+			"attribute": ["Horsepower"]
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [{
+			"name": "Dragable"
+		}]
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory",
+			"criteriaFilter":[{
+				"field":"Cylinders",
+				"type":"Number",
+				"value": [[4,4]],
+				"contain": "true",
+			}]
+		}],
+		"Interaction": [{
+			"name": "HighLight"
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [{
+			"name": "ContactChart",
+			"function": "ContactCharts",
+			"attribute": ["various"]
+		}],
+		"Param": [{
+			"name": "various",
+			"CriteriaArry": [{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotCategory"}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotQuantSequential"}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotQuantRamp"}]
+			},
+			{
+				"target":"Chart",
+				"criteria": [{"id": "DxRTickPlot"}]
+			}]
+		}]
+	}
+	]
+}
+
+文件过长可读性变差。
+错误信息未提示
+符号算一个，设计师需要可视化界面。
+脚本搜索。
+单词补全

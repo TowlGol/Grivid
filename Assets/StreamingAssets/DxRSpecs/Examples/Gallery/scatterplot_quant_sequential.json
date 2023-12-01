@@ -1,0 +1,33 @@
+{
+  "data": {
+    "url": "cars.json" 
+  },
+  "mark": "cube",
+  "encoding": {
+    "x": {
+      "field": "Displacement",
+      "type": "quantitative",
+      "scale": {
+        "domain": [ 0, 500 ]
+      }
+    },
+    "y": {
+      "field": "Horsepower",
+      "type": "quantitative",
+      "scale": {
+        "domain": [ 0, 250 ]
+      }
+    },
+    "z": {
+      "field": "Miles_per_Gallon",
+      "type": "quantitative",
+      "scale": {
+        "domain": [ 0, 50 ]
+      }
+    },
+    "opacity": {
+      "field": "Miles_per_Gallon",
+      "type": "quantitative"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+	"Grammar": [
+	{
+			"Target": "Scene",
+			"Interaction": [{
+					"name": "PhotonClient",
+					"function":"InitAddress",
+					"attribute":["10.53.26.24"]
+				},
+				{
+					"name": "SyncTransformRequest"
+				},
+				{
+					"name": "SyncOffLineRequest"
+				},
+				{
+					"name": "SyncNewPlayerRequest"
+				},
+				{
+					"name": "SyncNewPlayerEvent"
+				},
+				{
+					"name": "SyncOffLineEvent"
+				},
+				{
+					"name": "SyncTransformEvent"
+				},
+				{
+					"name": "Dragable"
+				}
+			]
+		},
+		{
+			"Target": "Chart",
+			"Criteria":[{
+				"id":"ALL"
+			}],
+			"Interaction": [{
+					"name": "SyncObjectCondition",
+				}
+			]
+		}
+
+		
+	]
+}

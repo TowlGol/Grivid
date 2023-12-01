@@ -1,0 +1,24 @@
+{
+  "data": {
+    "url": "x_cars_subsampled.json"
+  },
+  "mark": "sphere",
+  "encoding": {
+    "x": {
+      "field": "Horsepower",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Miles_per_Gallon",
+      "type": "quantitative"
+    },
+    "z": {
+      "field": "Acceleration",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Weight_in_lbs",
+      "type": "quantitative"
+    }
+  }
+}

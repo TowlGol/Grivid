@@ -1,0 +1,58 @@
+{
+	"Imvisd": [
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory"
+		}],
+		"Interaction": [{
+			"name": "Filter",
+			"function": "filter",
+			"attribute": ["THIS","Horsepower"]
+		}]
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRTickPlot"
+		}],
+		"Interaction": [{
+			"name": "Filter",
+			"function": "filter",
+			"attribute": ["THIS","Horsepower"]
+		}]
+	},
+	{
+		"Target": "Scene",
+		
+		"Interaction": [
+		{
+			"name": "ContactChart",
+			"function": "ContactCharts",
+			"attribute": ["var"]
+		}],
+		"Param": [{
+			"name": "var",
+			"CriteriaArry": [{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotCategory"}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRTickPlot"}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotQuantRamp"}]
+			}]
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [
+		{
+			"name": "Dragable",
+			
+		}]
+		
+	},
+	]
+}

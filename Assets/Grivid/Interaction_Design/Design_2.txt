@@ -1,0 +1,16 @@
+{
+	"Imvisd": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRVisCone",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["time"]
+		}
+		],
+	}
+	]
+}

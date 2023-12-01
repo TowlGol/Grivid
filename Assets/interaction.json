@@ -1,0 +1,29 @@
+[
+	{
+		"selectionType":"Judge",
+		"selection":[
+			{
+				"field":"b",
+				"domain" : [
+				[19,28], [28,44]
+				],
+			},
+			{
+				"field":"a",
+				"contain":["A","B"]
+			}
+		],
+		"url":["url1","url2"]
+			
+	},
+	{
+		"selectionType":"All",
+		"selection":[
+			{
+				"field":"a",
+				"except":["B"]
+			}
+		],
+		"url":["url1","url2"]
+	}
+]

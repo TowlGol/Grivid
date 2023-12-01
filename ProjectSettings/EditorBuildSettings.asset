@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/UnityPackages/TGIResource/Scenes/PhoneScene.unity
+    guid: 62181748cd33d4b4682516a148194551
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 15d01cb60353c954e9171e6783598728,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 161b663efae218d4caf16c96a398bc1d,
+      type: 2}

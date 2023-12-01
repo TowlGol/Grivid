@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6645781485735679767
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6645781485735679761}
+  - component: {fileID: 6645781485735679760}
+  - component: {fileID: 6645781485735679762}
+  m_Layer: 0
+  m_Name: GrividPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6645781485735679761
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6645781485735679767}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.39123318, y: -0.36450237, z: 2.0595841}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6645781485735679760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6645781485735679767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46c155b1134465148b3cdd1177fd1048, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fileNameList: []
+--- !u!114 &6645781485735679762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6645781485735679767}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0f8f58aa80fd947bff63d2748278df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MovePrefab: {fileID: 8584215270322604669, guid: 2f799f5ebc2f5eb4b849057f026a3dd4,
+    type: 3}
+  ToggleSwitchPrefab: {fileID: 2531443379958685641, guid: b7c266eea69638643b6cfa79ff2dfe06,
+    type: 3}
+  TagPrefab: {fileID: 5736308993763439788, guid: 273fed7690fe96743b78453bf90aed98,
+    type: 3}
+  ColorLine: {fileID: 66076159899983573, guid: 072ee4d10fd8e084b8a9c3942c659ed2, type: 3}
+  TextMeshPrefab: {fileID: 3055243016090036178, guid: 77c19602d81358842b9d5ec7a3f9c402,
+    type: 3}
+  PinchSilder: {fileID: 6496913168922459388, guid: 425a0947cde05464f9b348fd37769714,
+    type: 3}
+  BackGrundPlant: {fileID: 6847235311237046728, guid: e7f877787531fba47b22849edbcbd2d5,
+    type: 3}
+  Line: {fileID: 5153934880947430564, guid: a4af065f10dc56a4ab25e5651899481d, type: 3}

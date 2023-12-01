@@ -1,0 +1,27 @@
+{
+	"Imvisd": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRVis",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["value"]
+		}
+		],
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRVis",
+		}],
+		"Interaction": [
+		{
+			"name": "HighLight",
+		}
+		],
+	}
+	]
+}

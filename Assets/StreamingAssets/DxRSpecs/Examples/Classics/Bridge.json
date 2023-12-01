@@ -1,0 +1,7716 @@
+﻿{
+  "data": {
+    "values": [
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "815"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "39",
+        "Income": "1314"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "985"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "32.2",
+        "Income": "864"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "36.5731262",
+        "Income": "1244"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "33.96717024",
+        "Income": "1803"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "1639"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "42.84559912",
+        "Income": "926"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1052"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.4",
+        "Income": "1050"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "579"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "576"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "658"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "37.91620899",
+        "Income": "1278"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1213"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1430"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1221"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "38.6497603",
+        "Income": "3431"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "2128"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "834"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "39.01496774",
+        "Income": "1400"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "985"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "33.64",
+        "Income": "970"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "36.9473378",
+        "Income": "1267"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "37.4",
+        "Income": "1839"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "1759"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "43.13915533",
+        "Income": "928"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1051"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.40397538",
+        "Income": "1064"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "573"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "570"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "659"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "36.47500606",
+        "Income": "1299"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1260"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1447"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1223"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "38.34738144",
+        "Income": "3575"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "2283"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "853"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "39.02993548",
+        "Income": "1491"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "985"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "35.04",
+        "Income": "1090"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "37.29122269",
+        "Income": "1290"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "39.21",
+        "Income": "1876"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "1887"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "36.56365268",
+        "Income": "929"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1050"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.40795077",
+        "Income": "1079"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "567"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "564"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "660"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "46.96239815",
+        "Income": "1320"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1309"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1464"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1225"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "41.31247671",
+        "Income": "3403"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "2242"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "1399"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "39.04490323",
+        "Income": "1651"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "986"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "35.74",
+        "Income": "1224"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "36.29644969",
+        "Income": "1360"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "39.56",
+        "Income": "1799"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "2024"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "40.5022162",
+        "Income": "1036"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1052"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.41192615",
+        "Income": "1094"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "561"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "559"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "661"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "45.75400094",
+        "Income": "1403"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1360"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1562"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1292"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "43.01830917",
+        "Income": "3661"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "2552"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "2269"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "40.19012",
+        "Income": "1922"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "986"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "36.48",
+        "Income": "1374"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "41.46900965",
+        "Income": "1434"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "40.37",
+        "Income": "2184"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "2102"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "31.97",
+        "Income": "1155"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1053"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.41590154",
+        "Income": "1110"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "556"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "553"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "662"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "45.61661054",
+        "Income": "1604"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1413"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1666"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1362"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "39.92715263",
+        "Income": "4149"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "2792"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "3267"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "40.985432",
+        "Income": "2202"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "985"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "36.26",
+        "Income": "1543"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "37.35415172",
+        "Income": "1512"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "43.28",
+        "Income": "2146"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "2182"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "36.61",
+        "Income": "1287"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1055"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.41987692",
+        "Income": "1125"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "550"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "547"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "1898"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "49.53",
+        "Income": "1675"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1468"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1778"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1436"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "42.8",
+        "Income": "4480"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "3059"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "4795"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "41.541504",
+        "Income": "2406"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "28.85",
+        "Income": "1023"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "36.24",
+        "Income": "1733"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "38.15099864",
+        "Income": "1594"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "43.33",
+        "Income": "3086"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "2509"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "19.76",
+        "Income": "1435"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "23",
+        "Income": "1056"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.42385231",
+        "Income": "1168"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "545"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "542"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "3674"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "50",
+        "Income": "2033"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1525"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.5734572",
+        "Income": "1896"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1514"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "43.01",
+        "Income": "5268"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "3714"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "34.05",
+        "Income": "5431"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "42.460624",
+        "Income": "2815"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "31.95714286",
+        "Income": "1099"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "29.66",
+        "Income": "1946"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "45.66140699",
+        "Income": "1897"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "36.41",
+        "Income": "3297"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.37",
+        "Income": "2819"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "38.37",
+        "Income": "1599"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1058"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "36.59264",
+        "Income": "1213"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "539"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "536"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "34.05",
+        "Income": "5156"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "50.86",
+        "Income": "2483"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1584"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "31.12082604",
+        "Income": "2023"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1597"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "40.95",
+        "Income": "6046"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "4058"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "39.34215686",
+        "Income": "7120"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "44.512464",
+        "Income": "3021"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "1015"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "36.84",
+        "Income": "2185"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "39.67",
+        "Income": "1925"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "42.73",
+        "Income": "3555"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "38.905",
+        "Income": "3057"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "42.32",
+        "Income": "2035"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "25.4424",
+        "Income": "1084"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "37.03648",
+        "Income": "1395"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "534"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "531"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "38.51282051",
+        "Income": "6241"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "51.91",
+        "Income": "2827"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "35.9",
+        "Income": "1848"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "30.20106663",
+        "Income": "2158"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1535"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "43.78",
+        "Income": "6553"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "39.41",
+        "Income": "5292"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "44.63431373",
+        "Income": "7418"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "45.12972",
+        "Income": "3963"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "918"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "39.54",
+        "Income": "2454"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "44.61",
+        "Income": "2305"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "43.36",
+        "Income": "3639"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "40.91",
+        "Income": "3733"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "36.58",
+        "Income": "2009"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "24.384",
+        "Income": "1163"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "37.67568",
+        "Income": "1606"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "528"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "526"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "42.97564103",
+        "Income": "6265"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "48.6",
+        "Income": "3251"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "37.41086957",
+        "Income": "2156"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "29.93047652",
+        "Income": "2233"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1838"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "44.75",
+        "Income": "7169"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "45.21",
+        "Income": "5646"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "49.92647059",
+        "Income": "6688"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "48.288448",
+        "Income": "4858"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "894"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "33.11248",
+        "Income": "2756"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "41.8",
+        "Income": "2789"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "45.08",
+        "Income": "4314"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "43.915",
+        "Income": "4596"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "46.64",
+        "Income": "2352"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "18.35",
+        "Income": "1194"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "38.6",
+        "Income": "1840"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "26",
+        "Income": "523"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "25.8",
+        "Income": "520"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "47.43846154",
+        "Income": "7181"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "53.47",
+        "Income": "3643"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "40.4326087",
+        "Income": "2583"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "30.74960789",
+        "Income": "3087"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "1985"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "46.32",
+        "Income": "8013"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "48.92818182",
+        "Income": "6819"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "55.21862745",
+        "Income": "8695"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "52.123024",
+        "Income": "6794"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "991"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "35.21936",
+        "Income": "3095"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "48.53",
+        "Income": "3192"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "51.37",
+        "Income": "4542"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "48.40833333",
+        "Income": "5162"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "52.67",
+        "Income": "3012"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "23.18032",
+        "Income": "1391"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "39.9736",
+        "Income": "1998"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "24.097344",
+        "Income": "544"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "24.097344",
+        "Income": "538"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "51.90128205",
+        "Income": "8896"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "57.99",
+        "Income": "4332"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "43.45434783",
+        "Income": "2846"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "31.40217766",
+        "Income": "3487"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35",
+        "Income": "2144"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "53.99",
+        "Income": "8305"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "51.8",
+        "Income": "8287"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "60.51078431",
+        "Income": "7867"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "56.569064",
+        "Income": "6430"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "32",
+        "Income": "1012"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "37.38208",
+        "Income": "4042"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "47.55",
+        "Income": "3097"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "51.6",
+        "Income": "4550"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "53.5",
+        "Income": "4482"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "54.58",
+        "Income": "2514"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "24.71866667",
+        "Income": "1197"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "42.04432",
+        "Income": "2496"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "27.99984",
+        "Income": "779"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "27.99984",
+        "Income": "756"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "56.36410256",
+        "Income": "9453"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "58.89",
+        "Income": "5483"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "46.47608696",
+        "Income": "3276"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "20.5",
+        "Income": "1489"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "29",
+        "Income": "1525"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "56.6",
+        "Income": "8316"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "55.4",
+        "Income": "9181"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "64.998",
+        "Income": "7714"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "58.94",
+        "Income": "7976"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "33.26984",
+        "Income": "1055"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "42.03308",
+        "Income": "5027"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "54.438",
+        "Income": "4489"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "56.938",
+        "Income": "6835"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "59.4991686",
+        "Income": "6791"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "60.228",
+        "Income": "4444"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "28.8016",
+        "Income": "1244"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "46.65403",
+        "Income": "2592"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "33.867168",
+        "Income": "829"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "35.244168",
+        "Income": "784"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "60.86092308",
+        "Income": "8359"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "64.074",
+        "Income": "7369"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "49.52382609",
+        "Income": "3591"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "36.428",
+        "Income": "3779"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "35.7818",
+        "Income": "2323"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "60.85",
+        "Income": "8722"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "59.556",
+        "Income": "10139"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "66.336",
+        "Income": "10057"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "63.99",
+        "Income": "8871"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "33.30311174",
+        "Income": "841"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "48.5472",
+        "Income": "4631"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "46.586",
+        "Income": "5439"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "49.586",
+        "Income": "4821"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "60.73821096",
+        "Income": "9711"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "65.786",
+        "Income": "5373"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "32.13056",
+        "Income": "1081"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "49.052",
+        "Income": "3888"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "41.22756",
+        "Income": "1418"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "43.98156",
+        "Income": "1322"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "65.35774359",
+        "Income": "10673"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "65.818",
+        "Income": "8349"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "44.752",
+        "Income": "3696"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "41.056",
+        "Income": "5632"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "34.5396",
+        "Income": "3163"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "60.89",
+        "Income": "10935"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "63.192",
+        "Income": "11320"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "69.134",
+        "Income": "12073"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "68.25",
+        "Income": "12022"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "39.9994",
+        "Income": "535"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "59.8384",
+        "Income": "8630"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "64.144",
+        "Income": "7198"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "66.594",
+        "Income": "7914"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "67.0215058",
+        "Income": "7251"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "71.004",
+        "Income": "8670"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "34.6284",
+        "Income": "908"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "59.378",
+        "Income": "2549"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "32.2464",
+        "Income": "868"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "43.3774",
+        "Income": "807"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "69.392",
+        "Income": "14391"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "71.492",
+        "Income": "11452"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "59.123",
+        "Income": "4670"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "57.084",
+        "Income": "7514"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "42.5164",
+        "Income": "3103"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "68.58",
+        "Income": "11135"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "67.988",
+        "Income": "15319"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "68.8378",
+        "Income": "12229"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "68.519",
+        "Income": "12419"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "40.936264",
+        "Income": "582"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "60.18618",
+        "Income": "9245"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "65.5708",
+        "Income": "7738"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "66.3308",
+        "Income": "8301"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "67.18742266",
+        "Income": "7884"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "71.0438",
+        "Income": "8350"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "34.95868",
+        "Income": "908"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "61.0706",
+        "Income": "2728"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "23.12128",
+        "Income": "729"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "40.88998",
+        "Income": "753"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "69.2654",
+        "Income": "13032"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "72.4284",
+        "Income": "11986"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "59.7336",
+        "Income": "4801"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "57.5768",
+        "Income": "7424"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "42.78358",
+        "Income": "3701"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "68.176",
+        "Income": "11416"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "68.0836",
+        "Income": "16198"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "69.2416",
+        "Income": "12084"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "68.718",
+        "Income": "12911"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "41.873128",
+        "Income": "631"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "60.82796",
+        "Income": "9446"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "66.4476",
+        "Income": "7914"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "67.6276",
+        "Income": "8446"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "67.51033952",
+        "Income": "8561"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "72.4836",
+        "Income": "8120"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "35.62796",
+        "Income": "912"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "63.1132",
+        "Income": "3015"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "20.99616",
+        "Income": "784"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "40.40256",
+        "Income": "809"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "69.4988",
+        "Income": "13281"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "72.5548",
+        "Income": "12316"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "60.9112",
+        "Income": "4832"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "57.9696",
+        "Income": "7775"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "43.25976",
+        "Income": "3963"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "69.472",
+        "Income": "11367"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "68.2992",
+        "Income": "16508"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "69.8254",
+        "Income": "12228"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "69.097",
+        "Income": "13158"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "42.809992",
+        "Income": "692"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "61.46974",
+        "Income": "8192"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "66.5044",
+        "Income": "7877"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "67.5644",
+        "Income": "8622"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "67.82125638",
+        "Income": "9252"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "72.3034",
+        "Income": "9169"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "36.30024",
+        "Income": "947"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "63.4558",
+        "Income": "3168"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "27.87104",
+        "Income": "1018"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "45.41514",
+        "Income": "1051"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.3522",
+        "Income": "13388"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.0312",
+        "Income": "12707"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "62.0038",
+        "Income": "5027"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "58.7624",
+        "Income": "7981"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "43.77694",
+        "Income": "4361"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "69.738",
+        "Income": "11751"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "68.6448",
+        "Income": "16974"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "69.9792",
+        "Income": "12694"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "69.956",
+        "Income": "12687"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "44.663056",
+        "Income": "694"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "62.11152",
+        "Income": "8492"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "67.4612",
+        "Income": "8470"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "68.4412",
+        "Income": "9006"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "68.12117324",
+        "Income": "9926"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.3532",
+        "Income": "9821"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "36.97552",
+        "Income": "962"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "64.6984",
+        "Income": "3280"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "38.68292",
+        "Income": "1080"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "48.42772",
+        "Income": "1070"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.4656",
+        "Income": "14907"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.1076",
+        "Income": "13247"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "63.0134",
+        "Income": "5224"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "60.7552",
+        "Income": "8234"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "44.33512",
+        "Income": "3892"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.104",
+        "Income": "12173"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.4304",
+        "Income": "16558"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.303",
+        "Income": "13082"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "70.015",
+        "Income": "13513"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "46.1666",
+        "Income": "706"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "62.7523",
+        "Income": "8757"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "67.258",
+        "Income": "8802"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "68.708",
+        "Income": "9453"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "68.4080901",
+        "Income": "10998"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.293",
+        "Income": "10548"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "37.6538",
+        "Income": "963"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "65.861",
+        "Income": "3464"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "42.6208",
+        "Income": "1146"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "49.9673",
+        "Income": "1139"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.599",
+        "Income": "14883"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.314",
+        "Income": "13438"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "63.939",
+        "Income": "5386"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "63.148",
+        "Income": "8787"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "44.9343",
+        "Income": "4156"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.07",
+        "Income": "12531"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.476",
+        "Income": "17409"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.1868",
+        "Income": "13217"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "70.004",
+        "Income": "14253"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "48.536704",
+        "Income": "736"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "63.39308",
+        "Income": "9424"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "67.8748",
+        "Income": "8971"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "68.7448",
+        "Income": "9907"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "68.70345102",
+        "Income": "11751"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "72.9728",
+        "Income": "10575"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "38.33608",
+        "Income": "993"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "65.7236",
+        "Income": "3646"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "43.99568",
+        "Income": "1208"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "50.64688",
+        "Income": "1130"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.8624",
+        "Income": "15358"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.3604",
+        "Income": "14054"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "64.7816",
+        "Income": "5530"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "64.6408",
+        "Income": "9465"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "45.57448",
+        "Income": "4122"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.336",
+        "Income": "12572"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.5516",
+        "Income": "17428"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.4706",
+        "Income": "13191"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "69.923",
+        "Income": "14177"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "48.587368",
+        "Income": "780"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "64.03586",
+        "Income": "10636"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "67.3716",
+        "Income": "9302"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "69.1816",
+        "Income": "10442"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "68.62532856",
+        "Income": "12385"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.4626",
+        "Income": "10295"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "39.02236",
+        "Income": "959"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "65.5962",
+        "Income": "3843"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "44.87056",
+        "Income": "1322"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "51.33946",
+        "Income": "1226"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.3858",
+        "Income": "15441"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.3068",
+        "Income": "14379"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "65.5442",
+        "Income": "5730"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "63.7336",
+        "Income": "9496"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "46.25466",
+        "Income": "4943"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.452",
+        "Income": "12702"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.3272",
+        "Income": "17430"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.0244",
+        "Income": "13545"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "70.582",
+        "Income": "14056"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "48.143792",
+        "Income": "889"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "64.67964",
+        "Income": "10501"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.5084",
+        "Income": "9276"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "70.4184",
+        "Income": "10681"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "69.36929231",
+        "Income": "12884"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.4224",
+        "Income": "10896"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "39.71364",
+        "Income": "1005"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "67.2188",
+        "Income": "3996"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "45.33644",
+        "Income": "1498"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "52.04404",
+        "Income": "1233"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.0192",
+        "Income": "15688"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.2932",
+        "Income": "14285"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "66.0188",
+        "Income": "5923"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "66.6264",
+        "Income": "10037"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "46.97084",
+        "Income": "5252"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.628",
+        "Income": "12672"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.5928",
+        "Income": "16961"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.5982",
+        "Income": "14076"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "70.621",
+        "Income": "14289"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "36.336856",
+        "Income": "958"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "65.32842",
+        "Income": "9234"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.6852",
+        "Income": "9751"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "70.4552",
+        "Income": "10911"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "69.48021979",
+        "Income": "13759"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "72.6522",
+        "Income": "10865"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "40.41292",
+        "Income": "1002"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "67.6114",
+        "Income": "4288"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "45.93132",
+        "Income": "1452"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "52.76062",
+        "Income": "1212"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "70.9326",
+        "Income": "16454"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.4196",
+        "Income": "14797"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "65.6314",
+        "Income": "6009"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.3692",
+        "Income": "9755"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "47.72102",
+        "Income": "4869"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.724",
+        "Income": "13122"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.8084",
+        "Income": "17909"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.042",
+        "Income": "14346"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71",
+        "Income": "14414"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "29.51112",
+        "Income": "889"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "65.9852",
+        "Income": "9213"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.882",
+        "Income": "10560"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "70.672",
+        "Income": "11642"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "69.40190727",
+        "Income": "14808"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "74.082",
+        "Income": "10993"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "41.1222",
+        "Income": "1048"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "67.904",
+        "Income": "4756"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "46.2922",
+        "Income": "1544"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "53.4912",
+        "Income": "1178"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.396",
+        "Income": "16179"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.436",
+        "Income": "15542"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "67.964",
+        "Income": "6248"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.382",
+        "Income": "10496"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "48.4992",
+        "Income": "4735"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.94",
+        "Income": "13697"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.734",
+        "Income": "18059"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.3158",
+        "Income": "14126"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.229",
+        "Income": "14545"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "31.930824",
+        "Income": "558"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "66.64998",
+        "Income": "9248"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.9088",
+        "Income": "11286"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.2588",
+        "Income": "12168"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "69.99702797",
+        "Income": "15317"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.4618",
+        "Income": "10801"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "41.84348",
+        "Income": "1051"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "68.5566",
+        "Income": "5276"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "46.54408",
+        "Income": "1624"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "54.23578",
+        "Income": "1201"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.1194",
+        "Income": "16664"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.4424",
+        "Income": "16425"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "68.0866",
+        "Income": "6669"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.6248",
+        "Income": "10908"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "49.30038",
+        "Income": "4691"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.686",
+        "Income": "13887"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.1396",
+        "Income": "18170"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.0896",
+        "Income": "14742"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.258",
+        "Income": "15276"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "42.274688",
+        "Income": "567"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "67.32476",
+        "Income": "9273"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.6156",
+        "Income": "11560"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "70.7956",
+        "Income": "12767"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.16889372",
+        "Income": "15872"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.6716",
+        "Income": "11489"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "42.57776",
+        "Income": "1046"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "68.8392",
+        "Income": "5686"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "46.82096",
+        "Income": "1592"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "54.99436",
+        "Income": "1182"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.3828",
+        "Income": "16646"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.3188",
+        "Income": "16793"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "67.7492",
+        "Income": "6511"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.2776",
+        "Income": "11027"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "50.11556",
+        "Income": "4849"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.752",
+        "Income": "13897"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.0252",
+        "Income": "18966"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.1534",
+        "Income": "15357"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.267",
+        "Income": "15752"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "49.619432",
+        "Income": "635"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "68.00654",
+        "Income": "9244"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.0224",
+        "Income": "11858"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "70.6524",
+        "Income": "13235"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.26131586",
+        "Income": "16221"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "72.9714",
+        "Income": "12447"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "43.32404",
+        "Income": "1071"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "69.9218",
+        "Income": "6106"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "47.22984",
+        "Income": "1577"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "55.76694",
+        "Income": "1305"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.4562",
+        "Income": "17340"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "72.9552",
+        "Income": "17347"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "68.6818",
+        "Income": "6836"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.7404",
+        "Income": "10620"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "50.93674",
+        "Income": "5188"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "70.658",
+        "Income": "14393"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "69.8508",
+        "Income": "19497"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.8172",
+        "Income": "16098"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.646",
+        "Income": "16464"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "50.988016",
+        "Income": "713"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "68.69332",
+        "Income": "9179"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.2292",
+        "Income": "12389"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.6192",
+        "Income": "13969"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.82344196",
+        "Income": "17100"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.5612",
+        "Income": "13450"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "44.07932",
+        "Income": "1125"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "70.3944",
+        "Income": "6741"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "47.82972",
+        "Income": "1592"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "56.55352",
+        "Income": "1380"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.4996",
+        "Income": "17837"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.4516",
+        "Income": "18118"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "68.9144",
+        "Income": "7078"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.5332",
+        "Income": "11836"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "51.75292",
+        "Income": "5296"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.444",
+        "Income": "15067"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.1364",
+        "Income": "20338"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.151",
+        "Income": "16601"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.745",
+        "Income": "17243"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "53.26108",
+        "Income": "772"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "69.3761",
+        "Income": "9116"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "68.986",
+        "Income": "13006"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.456",
+        "Income": "14514"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.81075623",
+        "Income": "17838"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.831",
+        "Income": "14173"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "44.8386",
+        "Income": "1053"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "70.447",
+        "Income": "7048"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "48.6336",
+        "Income": "1630"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "57.3651",
+        "Income": "1416"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.433",
+        "Income": "18632"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.568",
+        "Income": "18980"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "69.617",
+        "Income": "7409"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.116",
+        "Income": "12363"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "52.5551",
+        "Income": "5309"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.43",
+        "Income": "15292"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.212",
+        "Income": "21361"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.9948",
+        "Income": "16756"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "71.874",
+        "Income": "18022"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "54.364464",
+        "Income": "826"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "70.04688",
+        "Income": "9436"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.5028",
+        "Income": "13269"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.8728",
+        "Income": "15158"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.92828395",
+        "Income": "18262"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.2208",
+        "Income": "15166"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "45.59388",
+        "Income": "1037"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "71.2596",
+        "Income": "7724"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "49.60048",
+        "Income": "1616"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "58.21268",
+        "Income": "1563"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.2964",
+        "Income": "19467"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.8444",
+        "Income": "19588"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.0296",
+        "Income": "7818"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.1788",
+        "Income": "12823"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "53.33228",
+        "Income": "5906"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.346",
+        "Income": "15494"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.2276",
+        "Income": "22495"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.2786",
+        "Income": "17570"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.083",
+        "Income": "18240"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "55.889368",
+        "Income": "719"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "70.69866",
+        "Income": "10372"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.6796",
+        "Income": "13477"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.8696",
+        "Income": "15759"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71.15404398",
+        "Income": "18311"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.7206",
+        "Income": "14734"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "46.33916",
+        "Income": "1096"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "71.5522",
+        "Income": "8454"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "50.62536",
+        "Income": "1646"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "59.09526",
+        "Income": "1621"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.6798",
+        "Income": "18309"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.9108",
+        "Income": "20686"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "69.7322",
+        "Income": "8044"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.9616",
+        "Income": "13256"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "54.08346",
+        "Income": "6020"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.972",
+        "Income": "15777"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.5532",
+        "Income": "22803"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "70.9124",
+        "Income": "18261"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.242",
+        "Income": "18900"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "56.860432",
+        "Income": "669"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "71.32644",
+        "Income": "9626"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.6364",
+        "Income": "13726"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.8664",
+        "Income": "16321"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.80345367",
+        "Income": "19254"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.9304",
+        "Income": "13752"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "47.07144",
+        "Income": "1095"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "71.8748",
+        "Income": "9439"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "51.61924",
+        "Income": "1673"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "60.00184",
+        "Income": "1774"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.3432",
+        "Income": "18082"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.7872",
+        "Income": "21022"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.3748",
+        "Income": "8473"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.9144",
+        "Income": "13902"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "54.80964",
+        "Income": "6295"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.598",
+        "Income": "16357"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.2088",
+        "Income": "23647"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.3262",
+        "Income": "18949"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.401",
+        "Income": "19614"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "58.367416",
+        "Income": "732"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "71.92622",
+        "Income": "9377"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "69.5132",
+        "Income": "15058"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "71.6032",
+        "Income": "17339"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.65682236",
+        "Income": "20409"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.7002",
+        "Income": "13983"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "47.78972",
+        "Income": "1141"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "72.1074",
+        "Income": "10548"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "52.55012",
+        "Income": "1643"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "60.91542",
+        "Income": "1998"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.7166",
+        "Income": "19745"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.4936",
+        "Income": "21845"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "69.8674",
+        "Income": "8331"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.3872",
+        "Income": "13972"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "55.51382",
+        "Income": "6470"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.554",
+        "Income": "16616"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.4444",
+        "Income": "24147"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71",
+        "Income": "19719"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.6",
+        "Income": "19842"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "60",
+        "Income": "848"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "72.5",
+        "Income": "8918"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "70.2",
+        "Income": "16245"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "72.5",
+        "Income": "18185"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "70.9",
+        "Income": "21218"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.8",
+        "Income": "14937"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "48.5",
+        "Income": "1170"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "72.2",
+        "Income": "14203"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "53.4",
+        "Income": "1697"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "61.8",
+        "Income": "2142"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.5",
+        "Income": "19200"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "73.9",
+        "Income": "22186"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70",
+        "Income": "8705"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.5",
+        "Income": "14915"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "56.2",
+        "Income": "6740"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "71.8",
+        "Income": "16933"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "70.7",
+        "Income": "23908"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.3",
+        "Income": "20176"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.9",
+        "Income": "20688"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "60.6",
+        "Income": "876"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "73.2",
+        "Income": "9471"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "70.5",
+        "Income": "16564"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "72.6",
+        "Income": "18891"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71",
+        "Income": "21695"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.8",
+        "Income": "16687"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "48.9",
+        "Income": "1154"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "72.8",
+        "Income": "14673"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "54.6",
+        "Income": "1699"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "62.3",
+        "Income": "2427"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.6",
+        "Income": "19871"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "74.1",
+        "Income": "23239"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.2",
+        "Income": "9256"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.6",
+        "Income": "15170"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "56.9",
+        "Income": "6765"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72",
+        "Income": "17207"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "71",
+        "Income": "24350"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "71.7",
+        "Income": "20385"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "72.9",
+        "Income": "21532"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "61.1",
+        "Income": "843"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "73.9",
+        "Income": "9745"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "70.9",
+        "Income": "17722"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "72.8",
+        "Income": "19570"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71.2",
+        "Income": "22497"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "73.9",
+        "Income": "17413"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "49.3",
+        "Income": "1125"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "73.2",
+        "Income": "15694"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "55.7",
+        "Income": "1730"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "62.8",
+        "Income": "2760"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.8",
+        "Income": "20349"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "74.3",
+        "Income": "24308"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.6",
+        "Income": "9854"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.7",
+        "Income": "15113"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "57.7",
+        "Income": "7186"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72",
+        "Income": "17793"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "71.3",
+        "Income": "25374"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "72",
+        "Income": "21185"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "73.1",
+        "Income": "22797"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "61.7",
+        "Income": "894"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.1",
+        "Income": "10439"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "71.3",
+        "Income": "18804"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "73.1",
+        "Income": "20486"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71.5",
+        "Income": "23461"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "74.1",
+        "Income": "18360"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "49.9",
+        "Income": "1151"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "73.5",
+        "Income": "16731"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "56.8",
+        "Income": "1751"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "63.3",
+        "Income": "3326"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "71.8",
+        "Income": "21342"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "74.5",
+        "Income": "25278"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.9",
+        "Income": "10504"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.7",
+        "Income": "16236"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "58.3",
+        "Income": "7442"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72",
+        "Income": "19043"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "71.6",
+        "Income": "26567"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "72.1",
+        "Income": "21383"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "73.2",
+        "Income": "23405"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "62.1",
+        "Income": "888"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.3",
+        "Income": "10805"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "71.4",
+        "Income": "19273"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "73.3",
+        "Income": "20997"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71.8",
+        "Income": "23662"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "74.3",
+        "Income": "19123"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "50.4",
+        "Income": "1139"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "73.9",
+        "Income": "16320"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "57.9",
+        "Income": "1782"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "63.9",
+        "Income": "3673"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "72",
+        "Income": "22131"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "74.7",
+        "Income": "26252"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.2",
+        "Income": "11020"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.6",
+        "Income": "16594"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "58.9",
+        "Income": "7991"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72.3",
+        "Income": "18801"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "72.1",
+        "Income": "26258"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "72.5",
+        "Income": "21708"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "73.6",
+        "Income": "23593"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "62.6",
+        "Income": "920"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "11176"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "71.6",
+        "Income": "19409"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "73.2",
+        "Income": "20851"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "71.9",
+        "Income": "23630"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "74.7",
+        "Income": "19023"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "50.9",
+        "Income": "1212"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "74.4",
+        "Income": "16632"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "58.9",
+        "Income": "1844"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "64.4",
+        "Income": "4108"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "72.1",
+        "Income": "21467"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "74.8",
+        "Income": "27553"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.9",
+        "Income": "11430"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.2",
+        "Income": "16530"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "59.5",
+        "Income": "8381"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72.6",
+        "Income": "18699"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "72.6",
+        "Income": "25934"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "73",
+        "Income": "22372"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "73.9",
+        "Income": "24563"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "62.4",
+        "Income": "891"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "11334"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "72",
+        "Income": "19268"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "73.4",
+        "Income": "21661"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "72.3",
+        "Income": "24904"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "75.2",
+        "Income": "19978"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "51.4",
+        "Income": "1201"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "74.9",
+        "Income": "17117"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "59.8",
+        "Income": "1851"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "64.9",
+        "Income": "4614"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "72.3",
+        "Income": "21749"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75",
+        "Income": "29117"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.8",
+        "Income": "11605"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68",
+        "Income": "17192"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "60",
+        "Income": "9142"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "72.9",
+        "Income": "19207"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "72.9",
+        "Income": "27041"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "73.4",
+        "Income": "22373"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "74.2",
+        "Income": "25095"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "63.3",
+        "Income": "904"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.4",
+        "Income": "11712"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "72.4",
+        "Income": "19261"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "73.8",
+        "Income": "22270"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "72.6",
+        "Income": "25678"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "75.6",
+        "Income": "21583"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "52",
+        "Income": "1266"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "75.3",
+        "Income": "17705"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "60.7",
+        "Income": "1884"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "65.4",
+        "Income": "4964"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "72.4",
+        "Income": "20623"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.2",
+        "Income": "30319"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.6",
+        "Income": "11713"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.8",
+        "Income": "17487"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "60.9",
+        "Income": "8863"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "73.1",
+        "Income": "19684"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "73.2",
+        "Income": "27990"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "73.8",
+        "Income": "22763"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "74.4",
+        "Income": "25853"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "63.7",
+        "Income": "1016"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.5",
+        "Income": "12312"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "72.9",
+        "Income": "19608"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "74.1",
+        "Income": "22928"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "72.7",
+        "Income": "26444"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "76",
+        "Income": "22659"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "52.6",
+        "Income": "1305"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "75.7",
+        "Income": "18484"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "61.5",
+        "Income": "1809"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "66",
+        "Income": "5373"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "72.7",
+        "Income": "20707"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.3",
+        "Income": "31348"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.7",
+        "Income": "12033"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.7",
+        "Income": "17818"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "61.4",
+        "Income": "8400"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "73",
+        "Income": "20337"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "73.5",
+        "Income": "29281"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "74.2",
+        "Income": "23697"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "74.7",
+        "Income": "26665"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "64",
+        "Income": "1059"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "12519"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "73.3",
+        "Income": "20918"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "74.3",
+        "Income": "23647"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "72.9",
+        "Income": "27515"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "76.4",
+        "Income": "23523"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "53.1",
+        "Income": "1211"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "76.1",
+        "Income": "19346"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.2",
+        "Income": "2015"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "66.5",
+        "Income": "5505"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "73",
+        "Income": "21144"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.5",
+        "Income": "32737"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.7",
+        "Income": "11703"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.4",
+        "Income": "17632"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "62",
+        "Income": "8160"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "73.1",
+        "Income": "20871"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "73.7",
+        "Income": "29951"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "74.5",
+        "Income": "23872"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "75",
+        "Income": "26678"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "64.5",
+        "Income": "1073"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "12284"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "73.7",
+        "Income": "21965"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "74.5",
+        "Income": "23962"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "73.1",
+        "Income": "27765"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "76.7",
+        "Income": "24580"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "53.6",
+        "Income": "1270"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "76.3",
+        "Income": "19741"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.9",
+        "Income": "1887"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "66.9",
+        "Income": "4899"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "73.2",
+        "Income": "21259"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.7",
+        "Income": "34346"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.6",
+        "Income": "11307"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.3",
+        "Income": "17557"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "62.7",
+        "Income": "7828"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "73.4",
+        "Income": "20417"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "73.8",
+        "Income": "29619"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "74.8",
+        "Income": "24308"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "75.4",
+        "Income": "27171"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "64.8",
+        "Income": "1099"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "13224"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74",
+        "Income": "22279"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "74.8",
+        "Income": "24186"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "73.4",
+        "Income": "27846"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "76.9",
+        "Income": "25312"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "54.2",
+        "Income": "1322"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "76.7",
+        "Income": "20413"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "63.6",
+        "Income": "2073"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "67.5",
+        "Income": "5159"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "73.5",
+        "Income": "22191"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.8",
+        "Income": "34659"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71",
+        "Income": "10610"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.5",
+        "Income": "17619"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "63.2",
+        "Income": "8518"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "73.8",
+        "Income": "20149"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74",
+        "Income": "30070"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "75",
+        "Income": "23884"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "75.8",
+        "Income": "26031"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "65.2",
+        "Income": "1175"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.7",
+        "Income": "13421"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.3",
+        "Income": "22873"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "75",
+        "Income": "24753"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "73.6",
+        "Income": "27645"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.1",
+        "Income": "25455"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "54.6",
+        "Income": "1334"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "77",
+        "Income": "20951"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "64.2",
+        "Income": "2180"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "67.9",
+        "Income": "5483"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "73.7",
+        "Income": "22436"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "75.9",
+        "Income": "34704"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.2",
+        "Income": "10420"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.9",
+        "Income": "17951"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "63.7",
+        "Income": "8323"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "74.1",
+        "Income": "20607"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74.4",
+        "Income": "29230"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "75.3",
+        "Income": "23584"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "76.1",
+        "Income": "26525"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "65.6",
+        "Income": "1229"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "13669"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.5",
+        "Income": "23351"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "75.2",
+        "Income": "25188"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "74",
+        "Income": "28227"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.3",
+        "Income": "24594"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "55.1",
+        "Income": "1412"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "77.1",
+        "Income": "21446"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "64.8",
+        "Income": "2138"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "68.4",
+        "Income": "6078"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "73.9",
+        "Income": "22808"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76",
+        "Income": "35932"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.1",
+        "Income": "10835"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.7",
+        "Income": "18417"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "64.2",
+        "Income": "8535"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "74.3",
+        "Income": "21357"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74.6",
+        "Income": "30185"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "75.5",
+        "Income": "24934"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "76.4",
+        "Income": "27781"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "66",
+        "Income": "1456"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.4",
+        "Income": "14019"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.6",
+        "Income": "23926"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "75.5",
+        "Income": "25497"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "74.4",
+        "Income": "29135"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.4",
+        "Income": "25356"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "55.5",
+        "Income": "1436"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "77.4",
+        "Income": "22268"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "65.4",
+        "Income": "2205"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "69",
+        "Income": "6612"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "74.1",
+        "Income": "23698"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.1",
+        "Income": "38057"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.8",
+        "Income": "11138"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.4",
+        "Income": "18527"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "64.8",
+        "Income": "8798"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "74.6",
+        "Income": "21904"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74.8",
+        "Income": "32110"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "75.7",
+        "Income": "25875"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "76.5",
+        "Income": "29016"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "66.4",
+        "Income": "1557"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.3",
+        "Income": "14135"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.7",
+        "Income": "24630"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "75.7",
+        "Income": "25917"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "74.6",
+        "Income": "29851"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.6",
+        "Income": "25997"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "55.9",
+        "Income": "1462"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "77.8",
+        "Income": "23554"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "65.9",
+        "Income": "2121"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "69.5",
+        "Income": "6970"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "74.2",
+        "Income": "23750"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.1",
+        "Income": "40031"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.7",
+        "Income": "11159"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.2",
+        "Income": "18576"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "65.2",
+        "Income": "9163"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "74.7",
+        "Income": "22648"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74.8",
+        "Income": "33065"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "76",
+        "Income": "26057"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "76.6",
+        "Income": "29482"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "66.8",
+        "Income": "1604"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.5",
+        "Income": "14025"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.7",
+        "Income": "25133"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "76",
+        "Income": "26453"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "74.8",
+        "Income": "30514"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.6",
+        "Income": "27379"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "56.3",
+        "Income": "1493"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "78.1",
+        "Income": "24116"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "66.4",
+        "Income": "2106"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "70",
+        "Income": "7996"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "74.2",
+        "Income": "24180"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.1",
+        "Income": "41450"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.9",
+        "Income": "11429"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.8",
+        "Income": "19221"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "65.7",
+        "Income": "9556"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "74.9",
+        "Income": "23516"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "74.9",
+        "Income": "33899"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "76.2",
+        "Income": "26969"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "76.8",
+        "Income": "30288"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "67.2",
+        "Income": "1652"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "13805"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.7",
+        "Income": "26086"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "76.4",
+        "Income": "26963"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.1",
+        "Income": "30986"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.7",
+        "Income": "29335"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "56.6",
+        "Income": "1525"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "78.4",
+        "Income": "25018"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "66.8",
+        "Income": "2142"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "70.4",
+        "Income": "9096"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "74.4",
+        "Income": "24222"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.1",
+        "Income": "42225"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.1",
+        "Income": "11207"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "70.1",
+        "Income": "19355"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "66.1",
+        "Income": "10351"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "75.1",
+        "Income": "24551"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75",
+        "Income": "34787"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "76.4",
+        "Income": "27757"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.1",
+        "Income": "31356"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "67.5",
+        "Income": "1597"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.6",
+        "Income": "13925"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.8",
+        "Income": "27282"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "76.6",
+        "Income": "28101"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.3",
+        "Income": "31906"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "77.8",
+        "Income": "28780"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "57",
+        "Income": "1649"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "78.6",
+        "Income": "26724"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "67.2",
+        "Income": "2198"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "71",
+        "Income": "10233"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "74.6",
+        "Income": "24060"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.3",
+        "Income": "42101"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.2",
+        "Income": "11418"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "70",
+        "Income": "19660"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "66.5",
+        "Income": "10421"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "75.3",
+        "Income": "25750"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75",
+        "Income": "35929"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "76.6",
+        "Income": "28556"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.2",
+        "Income": "31550"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "67.7",
+        "Income": "1474"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.7",
+        "Income": "13829"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "74.8",
+        "Income": "28735"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "76.9",
+        "Income": "28942"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.4",
+        "Income": "32706"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78",
+        "Income": "28629"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "57.3",
+        "Income": "1723"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "78.9",
+        "Income": "28077"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "67.6",
+        "Income": "2257"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "71.5",
+        "Income": "11002"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "75",
+        "Income": "24206"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.5",
+        "Income": "42449"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.1",
+        "Income": "11212"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.8",
+        "Income": "19906"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "66.9",
+        "Income": "10103"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "75.5",
+        "Income": "26279"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.2",
+        "Income": "36830"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "77",
+        "Income": "28604"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.4",
+        "Income": "31163"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "68",
+        "Income": "1516"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.7",
+        "Income": "13670"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "75",
+        "Income": "28599"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "77.1",
+        "Income": "29476"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.4",
+        "Income": "31476"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.1",
+        "Income": "28666"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "57.7",
+        "Income": "1777"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.1",
+        "Income": "29550"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "67.9",
+        "Income": "2076"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "72",
+        "Income": "12087"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "75.4",
+        "Income": "24021"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "76.8",
+        "Income": "43296"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.8",
+        "Income": "10088"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.6",
+        "Income": "19349"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "67.3",
+        "Income": "10670"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "75.7",
+        "Income": "26424"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.4",
+        "Income": "37062"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "77.4",
+        "Income": "28122"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.6",
+        "Income": "30090"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "68.3",
+        "Income": "1634"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.7",
+        "Income": "12113"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "75.4",
+        "Income": "26761"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "77.3",
+        "Income": "29707"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.6",
+        "Income": "32844"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.3",
+        "Income": "28272"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "58",
+        "Income": "1760"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.2",
+        "Income": "30437"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "68.2",
+        "Income": "1973"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "72.5",
+        "Income": "13130"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "75.8",
+        "Income": "22636"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "77.1",
+        "Income": "44419"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "70.7",
+        "Income": "9347"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.4",
+        "Income": "18332"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "67.6",
+        "Income": "10568"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76",
+        "Income": "26017"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.6",
+        "Income": "36543"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "77.7",
+        "Income": "27895"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.7",
+        "Income": "29977"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "68.6",
+        "Income": "1845"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.8",
+        "Income": "10637"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "75.8",
+        "Income": "25726"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "77.5",
+        "Income": "30033"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "75.9",
+        "Income": "33221"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.5",
+        "Income": "26977"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "58.3",
+        "Income": "1821"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.4",
+        "Income": "30610"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "68.4",
+        "Income": "1745"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "73",
+        "Income": "13744"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "76.1",
+        "Income": "22651"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "77.3",
+        "Income": "45742"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.1",
+        "Income": "9553"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68",
+        "Income": "15661"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "67.9",
+        "Income": "10920"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76.3",
+        "Income": "26062"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.8",
+        "Income": "37321"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "78",
+        "Income": "28732"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.8",
+        "Income": "30424"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "68.9",
+        "Income": "2078"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.8",
+        "Income": "9001"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "76.2",
+        "Income": "25414"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "77.7",
+        "Income": "29719"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "76.2",
+        "Income": "32689"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.7",
+        "Income": "27055"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "58.6",
+        "Income": "1871"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.6",
+        "Income": "30587"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "68.6",
+        "Income": "1619"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "73.5",
+        "Income": "14466"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "76.5",
+        "Income": "23830"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "77.6",
+        "Income": "46765"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.7",
+        "Income": "9884"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "65.2",
+        "Income": "14320"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "68.3",
+        "Income": "11569"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76.5",
+        "Income": "26688"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.7",
+        "Income": "37844"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "78.2",
+        "Income": "29580"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "77.9",
+        "Income": "31505"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "69.3",
+        "Income": "2323"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.8",
+        "Income": "9018"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "76.5",
+        "Income": "26301"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "77.9",
+        "Income": "30303"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "76.4",
+        "Income": "33375"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.8",
+        "Income": "27789"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "59",
+        "Income": "1959"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.8",
+        "Income": "30746"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "68.8",
+        "Income": "1605"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "73.8",
+        "Income": "15577"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "76.7",
+        "Income": "24716"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "77.8",
+        "Income": "48850"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "71.8",
+        "Income": "10386"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "63.6",
+        "Income": "12535"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "68.6",
+        "Income": "10857"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76.7",
+        "Income": "27691"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.8",
+        "Income": "38892"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "78.4",
+        "Income": "30359"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "78",
+        "Income": "32101"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "69.6",
+        "Income": "2551"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "74.9",
+        "Income": "9195"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "76.7",
+        "Income": "27303"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "78.1",
+        "Income": "30823"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "76.6",
+        "Income": "33843"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "78.9",
+        "Income": "27671"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "59.3",
+        "Income": "2069"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "79.9",
+        "Income": "31224"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.4",
+        "Income": "1442"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "74.2",
+        "Income": "16798"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "76.9",
+        "Income": "25476"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78",
+        "Income": "50616"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "72",
+        "Income": "11093"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "64.2",
+        "Income": "12013"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "69",
+        "Income": "11530"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76.8",
+        "Income": "28317"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "75.9",
+        "Income": "39476"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "78.6",
+        "Income": "31145"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "78.3",
+        "Income": "32290"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "69.9",
+        "Income": "2775"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "75.2",
+        "Income": "9871"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "76.9",
+        "Income": "28210"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "78.4",
+        "Income": "31141"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "76.9",
+        "Income": "34008"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "79.1",
+        "Income": "28839"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "59.6",
+        "Income": "2186"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "80.3",
+        "Income": "31958"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.6",
+        "Income": "1393"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "74.7",
+        "Income": "17835"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "77.1",
+        "Income": "25984"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.1",
+        "Income": "52892"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "72.4",
+        "Income": "11776"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "65.9",
+        "Income": "11597"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "69.4",
+        "Income": "12190"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "76.9",
+        "Income": "28998"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "76.3",
+        "Income": "40501"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "78.9",
+        "Income": "32013"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "78.7",
+        "Income": "33310"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "70.3",
+        "Income": "3000"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "75.3",
+        "Income": "10106"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "77.1",
+        "Income": "29884"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "78.7",
+        "Income": "31756"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "77.3",
+        "Income": "34578"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "79.3",
+        "Income": "30009"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "60",
+        "Income": "2235"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "80.6",
+        "Income": "32391"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.7",
+        "Income": "1230"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "75.1",
+        "Income": "18687"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "77.4",
+        "Income": "26152"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.2",
+        "Income": "55386"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "72.7",
+        "Income": "12602"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.4",
+        "Income": "11779"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "69.8",
+        "Income": "12911"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "77.2",
+        "Income": "29662"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "76.8",
+        "Income": "41812"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "79.1",
+        "Income": "33085"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "78.9",
+        "Income": "34389"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "70.7",
+        "Income": "3205"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "75.4",
+        "Income": "10086"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "77.3",
+        "Income": "31423"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "78.8",
+        "Income": "32764"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "77.7",
+        "Income": "35254"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "79.5",
+        "Income": "31601"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "60.3",
+        "Income": "2332"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "80.6",
+        "Income": "31656"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "62.8",
+        "Income": "1267"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "75.4",
+        "Income": "17493"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "77.8",
+        "Income": "26077"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.3",
+        "Income": "56502"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "73",
+        "Income": "13225"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.6",
+        "Income": "11173"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "70.4",
+        "Income": "13008"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "77.4",
+        "Income": "30614"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77",
+        "Income": "43166"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "79.3",
+        "Income": "34346"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "79.1",
+        "Income": "35810"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "71.1",
+        "Income": "3419"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "75.6",
+        "Income": "10674"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "77.5",
+        "Income": "32743"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "78.9",
+        "Income": "33707"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "77.9",
+        "Income": "35931"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "79.7",
+        "Income": "32521"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "60.7",
+        "Income": "2496"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "80.7",
+        "Income": "31535"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "63",
+        "Income": "1377"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "75.8",
+        "Income": "19233"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "78.1",
+        "Income": "27371"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.5",
+        "Income": "57246"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "73.2",
+        "Income": "13824"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "66.2",
+        "Income": "11925"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "70.3",
+        "Income": "12381"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "77.6",
+        "Income": "31474"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.1",
+        "Income": "44673"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "79.7",
+        "Income": "35253"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "79.3",
+        "Income": "37314"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "71.5",
+        "Income": "3678"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "75.9",
+        "Income": "11268"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "77.8",
+        "Income": "34517"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "79.1",
+        "Income": "34774"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "78.1",
+        "Income": "36953"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "79.9",
+        "Income": "33599"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "61.1",
+        "Income": "2548"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "81.1",
+        "Income": "32193"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "63.2",
+        "Income": "1287"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "76.3",
+        "Income": "20757"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "78.5",
+        "Income": "27963"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.7",
+        "Income": "58699"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "73.8",
+        "Income": "14565"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "65.4",
+        "Income": "13173"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "71.5",
+        "Income": "13025"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "77.8",
+        "Income": "32543"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.1",
+        "Income": "45986"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "80.1",
+        "Income": "35452"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "79.5",
+        "Income": "37563"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "71.9",
+        "Income": "3955"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "76.2",
+        "Income": "11588"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "78.2",
+        "Income": "35327"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "79.2",
+        "Income": "35197"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "78.3",
+        "Income": "37517"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "80.2",
+        "Income": "34403"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "61.5",
+        "Income": "2628"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "81.4",
+        "Income": "32230"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "63.3",
+        "Income": "1368"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "76.8",
+        "Income": "21536"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "78.8",
+        "Income": "28752"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "78.9",
+        "Income": "59620"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "74.3",
+        "Income": "14744"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "65.1",
+        "Income": "13902"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "72",
+        "Income": "12106"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "78",
+        "Income": "33282"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.1",
+        "Income": "45978"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "80.4",
+        "Income": "36375"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "79.7",
+        "Income": "38270"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "72.4",
+        "Income": "4285"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "76.6",
+        "Income": "11715"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "78.5",
+        "Income": "35834"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "79.4",
+        "Income": "35333"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "78.5",
+        "Income": "37458"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "80.5",
+        "Income": "34252"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "61.9",
+        "Income": "2684"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "81.7",
+        "Income": "32248"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "63.5",
+        "Income": "1375"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "77.3",
+        "Income": "23008"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "79",
+        "Income": "29637"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "79.2",
+        "Income": "60152"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "74.6",
+        "Income": "14964"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "64.9",
+        "Income": "14629"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "72.5",
+        "Income": "12669"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "78.2",
+        "Income": "33954"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.2",
+        "Income": "46367"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "80.7",
+        "Income": "37035"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "79.9",
+        "Income": "38621"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "72.9",
+        "Income": "4685"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "76.8",
+        "Income": "12123"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "78.6",
+        "Income": "36461"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "79.7",
+        "Income": "35371"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "78.8",
+        "Income": "37167"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "80.8",
+        "Income": "34938"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "62.4",
+        "Income": "2850"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "81.8",
+        "Income": "32721"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "69.8",
+        "Income": "1405"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "77.8",
+        "Income": "23566"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "79.3",
+        "Income": "30404"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "79.5",
+        "Income": "60351"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "74.9",
+        "Income": "15508"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "64.8",
+        "Income": "15768"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "72.9",
+        "Income": "13151"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "78.5",
+        "Income": "35250"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.3",
+        "Income": "47260"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81",
+        "Income": "38130"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.1",
+        "Income": "39436"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "73.4",
+        "Income": "5127"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "76.9",
+        "Income": "12791"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "78.6",
+        "Income": "37783"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "80.1",
+        "Income": "36090"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "79.1",
+        "Income": "37614"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "81.1",
+        "Income": "37482"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "62.8",
+        "Income": "3029"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82",
+        "Income": "33483"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "69.9",
+        "Income": "1410"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "78.3",
+        "Income": "24628"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "79.5",
+        "Income": "31098"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "79.7",
+        "Income": "62370"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75",
+        "Income": "16314"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "65",
+        "Income": "16967"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "73.4",
+        "Income": "14187"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "78.8",
+        "Income": "35910"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.6",
+        "Income": "48597"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.2",
+        "Income": "38840"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.3",
+        "Income": "40284"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "73.9",
+        "Income": "5675"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "77.1",
+        "Income": "14200"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "78.8",
+        "Income": "38700"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "80.4",
+        "Income": "36395"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "79.4",
+        "Income": "37901"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "81.3",
+        "Income": "39108"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "63.2",
+        "Income": "3262"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.2",
+        "Income": "33916"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.1",
+        "Income": "1464"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "78.8",
+        "Income": "25541"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "79.8",
+        "Income": "31798"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.1",
+        "Income": "63573"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75",
+        "Income": "16900"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "64.8",
+        "Income": "18118"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "73.8",
+        "Income": "15176"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "79.1",
+        "Income": "36665"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.7",
+        "Income": "49762"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.4",
+        "Income": "39416"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.5",
+        "Income": "41012"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "74.4",
+        "Income": "6360"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "77.4",
+        "Income": "15901"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "79",
+        "Income": "40115"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "80.7",
+        "Income": "37001"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "79.7",
+        "Income": "39352"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "81.5",
+        "Income": "39818"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "63.6",
+        "Income": "3514"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.3",
+        "Income": "34468"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.2",
+        "Income": "1461"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "79.2",
+        "Income": "26734"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80",
+        "Income": "32281"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.4",
+        "Income": "64573"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75",
+        "Income": "17959"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "66.1",
+        "Income": "19660"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "74.3",
+        "Income": "16013"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "79.3",
+        "Income": "37504"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "77.8",
+        "Income": "50599"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.5",
+        "Income": "40643"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.6",
+        "Income": "41432"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "74.9",
+        "Income": "7225"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "77.6",
+        "Income": "17055"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "79.2",
+        "Income": "42016"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "80.9",
+        "Income": "37641"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "79.8",
+        "Income": "40693"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "81.8",
+        "Income": "42598"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "64",
+        "Income": "3806"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.5",
+        "Income": "35183"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.3",
+        "Income": "1392"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "79.5",
+        "Income": "28063"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.1",
+        "Income": "32928"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.6",
+        "Income": "65781"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75.1",
+        "Income": "19254"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.2",
+        "Income": "21374"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "74.7",
+        "Income": "16551"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "79.4",
+        "Income": "38164"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.1",
+        "Income": "51011"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.5",
+        "Income": "41312"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.7",
+        "Income": "41468"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "75.1",
+        "Income": "7880"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "77.8",
+        "Income": "17765"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "79.4",
+        "Income": "42122"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81",
+        "Income": "37505"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80",
+        "Income": "41199"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82",
+        "Income": "42294"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "64.4",
+        "Income": "3901"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.6",
+        "Income": "34800"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.6",
+        "Income": "1427"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "79.7",
+        "Income": "28650"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.2",
+        "Income": "32122"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.7",
+        "Income": "65216"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75.3",
+        "Income": "19996"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "67.6",
+        "Income": "22506"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "75.1",
+        "Income": "16454"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "79.5",
+        "Income": "37739"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.2",
+        "Income": "50384"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.6",
+        "Income": "41170"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "80.9",
+        "Income": "39884"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "75.6",
+        "Income": "8565"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "77.9",
+        "Income": "18035"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "79.7",
+        "Income": "38455"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81",
+        "Income": "36215"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80",
+        "Income": "38975"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.2",
+        "Income": "39979"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "64.7",
+        "Income": "4177"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.8",
+        "Income": "32880"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.7",
+        "Income": "1407"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "79.8",
+        "Income": "28716"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.3",
+        "Income": "31723"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.8",
+        "Income": "63354"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "75.6",
+        "Income": "20507"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.3",
+        "Income": "20739"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "75.4",
+        "Income": "15467"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "79.7",
+        "Income": "35840"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.3",
+        "Income": "48558"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.7",
+        "Income": "41330"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.1",
+        "Income": "40773"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "75.9",
+        "Income": "9430"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78",
+        "Income": "18477"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80",
+        "Income": "39425"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.2",
+        "Income": "36745"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80.2",
+        "Income": "40632"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.5",
+        "Income": "38809"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "65.1",
+        "Income": "4547"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "83",
+        "Income": "34404"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "70.8",
+        "Income": "1393"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80",
+        "Income": "30440"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.5",
+        "Income": "31824"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "80.9",
+        "Income": "62946"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "76.1",
+        "Income": "21328"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "68.7",
+        "Income": "21664"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "75.7",
+        "Income": "16674"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "80",
+        "Income": "36240"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.5",
+        "Income": "49373"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.8",
+        "Income": "41706"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.3",
+        "Income": "41567"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "76.1",
+        "Income": "10274"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78.1",
+        "Income": "19005"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80.3",
+        "Income": "40251"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.4",
+        "Income": "37328"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80.3",
+        "Income": "42080"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.7",
+        "Income": "39619"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "65.5",
+        "Income": "4787"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "82.8",
+        "Income": "34316"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "71",
+        "Income": "1397"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80.3",
+        "Income": "31327"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.6",
+        "Income": "32283"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "81.1",
+        "Income": "62737"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "76.5",
+        "Income": "22333"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "69.4",
+        "Income": "22570"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "76",
+        "Income": "17908"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "80.4",
+        "Income": "36549"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.7",
+        "Income": "49781"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.8",
+        "Income": "42522"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.4",
+        "Income": "41865"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "76.3",
+        "Income": "11017"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78.2",
+        "Income": "19586"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80.5",
+        "Income": "39489"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.6",
+        "Income": "37227"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80.5",
+        "Income": "42959"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.8",
+        "Income": "39925"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "65.9",
+        "Income": "4967"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "83.2",
+        "Income": "34988"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "71.1",
+        "Income": "1393"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80.4",
+        "Income": "31901"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.6",
+        "Income": "32806"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "81.3",
+        "Income": "63620"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "76.7",
+        "Income": "22740"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "70.4",
+        "Income": "23299"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "76.2",
+        "Income": "18057"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "80.8",
+        "Income": "36535"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.8",
+        "Income": "50549"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.8",
+        "Income": "42840"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.5",
+        "Income": "42213"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "76.5",
+        "Income": "11805"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78.3",
+        "Income": "20122"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80.6",
+        "Income": "38788"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.7",
+        "Income": "37309"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80.7",
+        "Income": "42887"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.8",
+        "Income": "40958"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "66.2",
+        "Income": "5244"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "83.3",
+        "Income": "35614"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "71.2",
+        "Income": "1392"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80.5",
+        "Income": "32684"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.6",
+        "Income": "33360"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "81.4",
+        "Income": "63322"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "76.9",
+        "Income": "23144"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "71.3",
+        "Income": "23561"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "76.3",
+        "Income": "18579"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "81",
+        "Income": "36908"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "78.9",
+        "Income": "51282"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.8",
+        "Income": "43219"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.6",
+        "Income": "42817"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "76.7",
+        "Income": "12609"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78.4",
+        "Income": "20704"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80.7",
+        "Income": "38569"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.8",
+        "Income": "37218"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "80.9",
+        "Income": "43444"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.8",
+        "Income": "41237"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "66.5",
+        "Income": "5565"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "83.4",
+        "Income": "35635"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "71.3",
+        "Income": "1391"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80.6",
+        "Income": "33629"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.6",
+        "Income": "33538"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "81.5",
+        "Income": "64020"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "77.1",
+        "Income": "23952"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "72.21",
+        "Income": "23293"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "76.4",
+        "Income": "18884"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "81.2",
+        "Income": "37614"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "79",
+        "Income": "52118"
+      },
+      {
+        "Country": "Australia",
+        "LifeExpectancy": "81.8",
+        "Income": "44056"
+      },
+      {
+        "Country": "Canada",
+        "LifeExpectancy": "81.7",
+        "Income": "43294"
+      },
+      {
+        "Country": "China",
+        "LifeExpectancy": "76.9",
+        "Income": "13334"
+      },
+      {
+        "Country": "Cuba",
+        "LifeExpectancy": "78.5",
+        "Income": "21291"
+      },
+      {
+        "Country": "Finland",
+        "LifeExpectancy": "80.8",
+        "Income": "38923"
+      },
+      {
+        "Country": "France",
+        "LifeExpectancy": "81.9",
+        "Income": "37599"
+      },
+      {
+        "Country": "Germany",
+        "LifeExpectancy": "81.1",
+        "Income": "44053"
+      },
+      {
+        "Country": "Iceland",
+        "LifeExpectancy": "82.8",
+        "Income": "42182"
+      },
+      {
+        "Country": "India",
+        "LifeExpectancy": "66.8",
+        "Income": "5903"
+      },
+      {
+        "Country": "Japan",
+        "LifeExpectancy": "83.5",
+        "Income": "36162"
+      },
+      {
+        "Country": "NorthKorea",
+        "LifeExpectancy": "71.4",
+        "Income": "1390"
+      },
+      {
+        "Country": "SouthKorea",
+        "LifeExpectancy": "80.7",
+        "Income": "34644"
+      },
+      {
+        "Country": "NewZealand",
+        "LifeExpectancy": "80.6",
+        "Income": "34186"
+      },
+      {
+        "Country": "Norway",
+        "LifeExpectancy": "81.6",
+        "Income": "64304"
+      },
+      {
+        "Country": "Poland",
+        "LifeExpectancy": "77.3",
+        "Income": "24787"
+      },
+      {
+        "Country": "Russia",
+        "LifeExpectancy": "73.13",
+        "Income": "23038"
+      },
+      {
+        "Country": "Turkey",
+        "LifeExpectancy": "76.5",
+        "Income": "19360"
+      },
+      {
+        "Country": "UnitedKingdom",
+        "LifeExpectancy": "81.4",
+        "Income": "38225"
+      },
+      {
+        "Country": "UnitedStates",
+        "LifeExpectancy": "79.1",
+        "Income": "53354"
+      }
+    ]
+  },
+  "mark": "sphere",
+  "encoding": {
+    "x": {
+      "field": "Country",
+      "type": "nominal"
+    },
+    "z": {
+      "field": "LifeExpectancy",
+      "type": "quantitative"
+    },
+    "y": {
+      "field": "Income",
+      "type": "quantitative"
+    }
+  }
+}

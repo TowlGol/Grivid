@@ -1,0 +1,158 @@
+{
+	"Imvisd": [{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRBarchartHorizontal",
+			"criteriaFilter": [{
+				"field": "z",
+				"type": "Number",
+				"value": [[1,10]],
+				"contain": "false",
+			}]
+		}],
+		"Interaction": [
+		{
+			"name": "TestClass",
+			"function": "test",
+			"trigger":"Onclick",
+			"attribute": [10, 20, 30]
+		},
+		{
+			"name": "HighLight",
+		},
+		],
+		"Param": [{
+			"name": "various",
+			"CriteriaArry": [{
+				"target": "User",
+				"criteria": [{
+					"id": "DxRBarchartHorizontal",
+					"criteriaFilter": [{
+						"field": "z",
+						"type": "String",
+						"value": ["Monday"]
+					}]
+				}]
+			}]
+		}]
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["Cylinders"]
+		}
+		],
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory",
+		}],
+		"Interaction": [
+		{
+			"name": "HighLight",
+		}
+		],
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRTickPlot",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["Horsepower"]
+		}
+		],
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRTickPlot",
+		}],
+		"Interaction": [
+		{
+			"name": "HighLight",
+		}
+		],
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [
+		{
+			"name": "Move"
+		}
+		],
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "ALL",
+		}],
+		"Interaction": [
+		{
+			"name": "FaceTo"
+		}],
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRBarchartHorizontal",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["z"]
+		}
+		],
+	},
+	
+	{
+		"Target": "Scene",
+		"Interaction": [{"name": "Dragable"}],
+	}
+	,{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "ImvisdPrefab",
+		}],
+		"Interaction": [
+		{
+			"name": "FaceTo",
+		}
+		],
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [{
+		"name": "ContactChart",
+		"function":"ContactCharts",
+		"attribute":["various"]
+		}],
+		"Param": [{
+			"name": "various",
+			"CriteriaArry": [{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotCategory",}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRTickPlot",}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotQuantSequential",}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "chart",}]
+			}]
+		}]
+	}]
+}

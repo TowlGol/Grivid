@@ -1,0 +1,76 @@
+{
+	"Imvisd": [
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory (1)",
+		}],
+		"Interaction": [{
+			"name": "HighLight",
+		}],
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRTickPlot (1)",
+		}],
+		"Interaction": [{
+			"name": "HighLight",
+		}],
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRScatterplotQuantRamp (1)",
+		}],
+		"Interaction": [{
+			"name": "HighLight",
+		}],
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRScatterplotCategory (1)",
+		}],
+		"Interaction": [{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["Cylinders"]
+		}]
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRTickPlot (1)", 
+		}],
+		"Interaction": [{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["Horsepower"]
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [{
+		"name": "ContactChart",
+		"function":"ContactCharts",
+		"attribute":["various"]
+		}],
+		"Param": [{
+			"name": "various",
+			"CriteriaArry": [{
+				"target":"Chart",
+				"criteria": [{"id": "DxRTickPlot (1)",}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotCategory (1)",}]
+			},{
+				"target":"Chart",
+				"criteria": [{"id": "DxRScatterplotQuantRamp (1)",}]
+			}]
+		}]
+	}
+	]
+
+
+}

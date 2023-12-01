@@ -1,0 +1,104 @@
+ {
+  "Grammar": [
+  {
+        "Target": "Chart",
+        "Criteria": [{
+          "id": "DxRScatterplotQuantRamp",
+        }],
+        "Interaction": [
+          {
+            "name": "Filter",
+            "function":"filter",
+            "attribute":["THIS","Displacement"]
+          }
+        ],
+      },
+      {
+        "Target": "Item",
+        "Criteria": [{
+          "id": "DxRScatterplotQuantRamp",
+        }],
+        "Interaction": [{"name":"HighLight"}
+        ],
+      },
+
+
+      {
+        "Target": "Chart",
+        "Criteria": [{
+          "id": "DxRScatterplotQuantSequential",
+        }],
+        "Interaction": [
+          {
+            "name": "Filter",
+            "function":"filter",
+            "attribute":["THIS","Weight_in_lbs"]
+          },
+          {
+            "name":"HighLight"
+          }
+        ],
+      },
+      {
+        "Target": "Item",
+        "Criteria": [{
+          "id": "DxRScatterplotQuantSequential",
+        }],
+        "Interaction": [{
+            "name":"HighLight"
+            }
+        ],
+      },
+
+      {
+        "Target": "Chart",
+        "Criteria": [{
+          "id": "DxRSpacetimeCube",
+        }],
+        "Interaction": [
+          {
+            "name": "Filter",
+            "function":"filter",
+            "attribute":["THIS","weight"]
+          },
+          {
+            "name":"HighLight"
+          }
+        ],
+      },
+
+      {
+        "Target": "Item",
+        "Criteria": [{
+          "id": "DxRSpacetimeCube",
+        }],
+        "Interaction": [{
+            "name":"HighLight"
+            }
+        ],
+      },
+
+      {
+        "Target": "Chart",
+        "Criteria": [{
+          "id": "DxRStreamlines",
+        }],
+        "Interaction": [
+          {
+            "name": "Filter",
+            "function":"filter",
+            "attribute":["THIS","time"]
+          }
+        ],
+      },
+      {
+        "Target": "Item",
+        "Criteria": [{
+          "id": "DxRStreamlines",
+        }],
+        "Interaction": [{
+            "name":"HighLight"
+            }
+        ],
+      }]
+      }

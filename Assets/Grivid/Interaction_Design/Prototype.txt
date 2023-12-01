@@ -1,0 +1,32 @@
+{
+	"Grammar": [
+		{
+			"Target": "Chart",
+			"Criteria": [{
+				"id": "DxRTickPlot"
+			}],
+			"Interaction": [{
+				"name": "Filter",
+				"function":"filter",
+				"attribute":["THIS","Horsepower"]
+			}]
+		},{
+			"Target": "Item",
+			"Criteria": [{
+				"id": "DxRTickPlot",
+					"criteriaFilter":[{
+					"field":"Cylinders",
+					"type":"Number",
+					"value": [[3,4],[6,8]],
+					"contain": "true",
+				}]
+			}],
+			"Interaction": [{
+				"name": "HighLight"
+			}]
+		}
+
+		
+
+	]
+}

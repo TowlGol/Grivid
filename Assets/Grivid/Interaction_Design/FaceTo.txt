@@ -1,0 +1,20 @@
+{
+	"Imvisd": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "ALL",
+		}],
+		"Interaction": [
+		{
+			"name": "FaceTo",
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [
+		{
+			"name": "ControlFaceTo",
+		}]
+	}
+	]
+}

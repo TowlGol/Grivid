@@ -1,0 +1,40 @@
+{
+	"Imvisd": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "DxRTickPlot",
+		}],
+		"Interaction": [
+		{
+			"name": "Filter",
+			"function":"filter",
+			"attribute":["Horsepower"]
+		}]
+	},
+	{
+		"Target": "Item",
+		"Criteria": [{
+			"id": "DxRTickPlot",
+			"criteriaFilter": [{
+				"field": "Cylinders",
+				"type": "Number",
+				"contain":"true",
+				"value": [[5,5]]
+			}]
+		}],
+		"Interaction": [{
+			"name": "HighLight"
+		}]
+	},
+	{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "ALL",
+		}],
+		"Interaction": [
+		{
+			"name": "FaceTo"
+		}],
+	}
+	]
+}

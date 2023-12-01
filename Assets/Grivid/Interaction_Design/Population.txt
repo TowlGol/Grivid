@@ -1,0 +1,15 @@
+{
+	"Grammar": [
+		{
+			"Target": "Chart",
+			"Criteria": [{
+				"id": "DxRVis"
+			}],
+			"Interaction": [{
+				"name": "Filter",
+				"function":"filter",
+				"attribute":["THIS","value"]
+			}]
+		}
+	]
+}
