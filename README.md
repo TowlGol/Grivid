@@ -1,4 +1,3 @@
-# Grivid
 ![](https://github.com/TowlGol/Grivid/blob/master/Grivid.png)
 ![](https://github.com/TowlGol/Grivid/blob/master/Grammar_Design.png)
 # Overview
