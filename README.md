@@ -10,8 +10,8 @@ This project mainly includes all the related design and implementation of Girvid
 * **Data Sever** is used to implement data transmission between devices in multiple scenarios in the example.
 
 # Grivid Paser
-  ##Paser Struct
-  ![](https://github.com/TowlGol/Grivid/blob/master/Grammar_Design.png)
+  ## Paser Struct
+  ![](https://github.com/TowlGol/Grivid/blob/master/Paser.png)
 # Configuration requirements
 _Requirements_: Unity 2019.4.36 or higher
 _Development_: Open with Unity, use scene Scenes/Main.unity.
