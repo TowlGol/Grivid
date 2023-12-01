@@ -12,5 +12,8 @@ This project mainly includes all the related design and implementation of Girvid
   ## Paser Struct
   ![](https://github.com/TowlGol/Grivid/blob/master/Paser.png)
 # Configuration requirements
-_Requirements_: Unity 2019.4.36 or higher
-_Development_: Open with Unity, use scene Scenes/Main.unity.
+* _Requirements_: Unity 2019.4.36 or higher
+* _Development_: Open with Unity, use scene Scenes/Main.unity.
+
+
+
