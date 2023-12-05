@@ -124,7 +124,6 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\MRTK\Shaders\InstancedColored.shader" />
     <None Include="Assets\MRTK\Shaders\MixedRealityTextMeshProSprite.shader" />
-    <None Include="Assets\Grivid\Interaction_Design\Design_1.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
     <None Include="Assets\MRTK\Shaders\ChannelPacker.shader" />
     <None Include="Assets\Grivid\Scrpits\UnityPackages\Reference\Microsoft.Net.Http.Headers.xml" />
@@ -143,7 +142,6 @@
     <None Include="Assets\Grivid\Scrpits\UnityPackages\Reference\System.Numerics.Vectors.dll" />
     <None Include="Assets\Grivid\Scrpits\UnityPackages\Reference\System.Numerics.Vectors.xml" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader" />
-    <None Include="Assets\Grivid\Interaction_Design\Design_2.txt" />
     <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
@@ -164,7 +162,6 @@
     <None Include="Assets\Grivid\Scrpits\UnityPackages\Reference\Newtonsoft.Json.dll" />
     <None Include="Assets\MixedRealityToolkit.Generated\link.xml" />
     <None Include="Assets\MRTK\Shaders\MixedRealityTextMeshPro.shader" />
-    <None Include="Assets\Grivid\Interaction_Design\Design_3.txt" />
     <None Include="Assets\MRTK\Shaders\MRTK_Wireframe.shader" />
     <None Include="Assets\Grivid\Scrpits\UnityPackages\Reference\System.Runtime.CompilerServices.Unsafe.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
@@ -365,6 +362,27 @@
     <Reference Include="UnityEditor">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.36f1c1\Editor\Data\Managed\UnityEditor.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Net.Http.Headers">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Microsoft.Net.Http.Headers.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
     <Reference Include="Common">
       <HintPath>Assets\Plugin\Common.dll</HintPath>
     </Reference>
@@ -373,27 +391,6 @@
     </Reference>
     <Reference Include="Microsoft.Windows.MixedReality.DotNetWinRT">
       <HintPath>Library\PackageCache\com.microsoft.windows.mixedreality.dotnetwinrt@94b3ff09ba2b-1679362624000\Plugins\Microsoft.Windows.MixedReality.DotNetWinRT.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Net.Http.Headers">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Microsoft.Net.Http.Headers.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Memory">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Memory.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Buffers">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Buffers.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Numerics.Vectors">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-    </Reference>
-    <Reference Include="Microsoft.Extensions.Primitives">
-      <HintPath>Assets\Grivid\Scrpits\UnityPackages\Reference\Microsoft.Extensions.Primitives.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2019.4.36f1c1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>

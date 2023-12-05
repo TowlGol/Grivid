@@ -68,52 +68,26 @@ namespace Assets.Imvisd.Scrpits {
                 valueArry = value2Arry[j];
                 for (int i = 0; i < data.values.Count; i++) {
                     if (data.values[i].TryGetValue(CriteriaFilter.field, out string value)) {
-                        if(CriteriaFilter.contain == true) {
-                            try {
-                                if (Convert.ToDateTime(valueArry[1]) >= Convert.ToDateTime(value) && Convert.ToDateTime(valueArry[0]) <= Convert.ToDateTime(value)) {
-                                    if (criteriaFlag[i] == 0) {
-                                        criteriaFlag[i] = 1;
-                                    }
-                                    else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
-                                        criteriaFlag[i] = 2;
-                                    }
+                        try {
+                            if (Convert.ToDateTime(valueArry[1]) >= Convert.ToDateTime(value) && Convert.ToDateTime(valueArry[0]) <= Convert.ToDateTime(value)) {
+                                if (criteriaFlag[i] == 0) {
+                                    criteriaFlag[i] = 1;
                                 }
-                            }
-                            catch {
-                                if (double.Parse(valueArry[1]) >= double.Parse(value) && double.Parse(valueArry[0]) <= double.Parse(value)) {
-                                    if (criteriaFlag[i] == 0) {
-                                        criteriaFlag[i] = 1;
-                                    }
-                                    else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
-                                        criteriaFlag[i] = 2;
-                                    }
-                                }
-                            }
-                            
-                        }
-                        else {
-                            try {
-                                if (Convert.ToDateTime(valueArry[1]) <= Convert.ToDateTime(value) || Convert.ToDateTime(valueArry[0]) >= Convert.ToDateTime(value)) {
-                                    if (criteriaFlag[i] == 0) {
-                                        criteriaFlag[i] = 1;
-                                    }
-                                    else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
-                                        criteriaFlag[i] = 2;
-                                    }
-                                }
-                            }
-                            catch {
-                                if (double.Parse(valueArry[1]) <= double.Parse(value) || double.Parse(valueArry[0]) >= double.Parse(value)) {
-                                    if (criteriaFlag[i] == 0) {
-                                        criteriaFlag[i] = 1;
-                                    }
-                                    else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
-                                        criteriaFlag[i] = 2;
-                                    }
+                                else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
+                                    criteriaFlag[i] = 2;
                                 }
                             }
                         }
-
+                        catch {
+                            if (double.Parse(valueArry[1]) >= double.Parse(value) && double.Parse(valueArry[0]) <= double.Parse(value)) {
+                                if (criteriaFlag[i] == 0) {
+                                    criteriaFlag[i] = 1;
+                                }
+                                else if (flagMaxCount == 1 && criteriaFlag[i] == 1) {
+                                    criteriaFlag[i] = 2;
+                                }
+                            }
+                        }
                     }
                 }
             }
@@ -149,7 +123,11 @@ namespace Assets.Imvisd.Scrpits {
             List<GameObject> resList = new List<GameObject>();
 
             for (int i = 0; i < criteriaFlag.Length; i++) {
-                if (criteriaFlag[i] == flagMaxCount + flagExNum && (resulatList.Count == 0 || resulatList.Contains(gameObjects[i]))) {
+
+                if (CriteriaFilter.contain && criteriaFlag[i] == flagMaxCount + flagExNum && (resulatList.Count == 0 || resulatList.Contains(gameObjects[i]))) {
+                    resList.Add(gameObjects[i]);
+                }
+                else if(!CriteriaFilter.contain && criteriaFlag[i] != flagMaxCount + flagExNum && (resulatList.Count == 0 || resulatList.Contains(gameObjects[i]))) {
                     resList.Add(gameObjects[i]);
                 }
             }

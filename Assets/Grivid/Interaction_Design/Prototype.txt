@@ -14,11 +14,11 @@
 			"Target": "Item",
 			"Criteria": [{
 				"id": "DxRTickPlot",
-					"criteriaFilter":[{
+				"criteriaFilter":[{
 					"field":"Cylinders",
 					"type":"Number",
 					"value": [[3,4],[6,8]],
-					"contain": "true",
+					"contain": "false",
 				}]
 			}],
 			"Interaction": [{
