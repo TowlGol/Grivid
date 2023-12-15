@@ -1,0 +1,20 @@
+{
+	"Grammar": [{
+		"Target": "Chart",
+		"Criteria": [{
+			"id": "ALL",
+		}],
+		"Interaction": [
+		{
+			"name": "faceTo",
+		}]
+	},
+	{
+		"Target": "Scene",
+		"Interaction": [
+		{
+			"name": "move",
+		}]
+	}
+	]
+}

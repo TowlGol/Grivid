@@ -308,7 +308,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -438,7 +438,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -660,7 +660,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -790,7 +790,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -1145,7 +1145,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -1628,7 +1628,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1654661287}
+      - m_Target: {fileID: 0}
         m_MethodName: sendType
         m_Mode: 5
         m_Arguments:
@@ -1920,7 +1920,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1654661284}
   - component: {fileID: 1654661283}
-  - component: {fileID: 1654661287}
   - component: {fileID: 1654661285}
   - component: {fileID: 1654661288}
   - component: {fileID: 1654661286}
@@ -1985,18 +1984,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   EventCode: 0
---- !u!114 &1654661287
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1654661282}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2e3ecf9e6d484e64a88029c203fb1d22, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &1654661288
 MonoBehaviour:
   m_ObjectHideFlags: 0

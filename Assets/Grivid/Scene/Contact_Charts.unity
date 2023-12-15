@@ -1787,7 +1787,7 @@ PrefabInstance:
     - target: {fileID: 6645781485735679760, guid: 4800daa9b7f0bd144974ecccc6922800,
         type: 3}
       propertyPath: fileNameList.Array.data[0]
-      value: CX.txt
+      value: Contact_Charts.txt
       objectReference: {fileID: 0}
     - target: {fileID: 6645781485735679760, guid: 4800daa9b7f0bd144974ecccc6922800,
         type: 3}
