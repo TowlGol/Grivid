@@ -1,5 +1,5 @@
 {
-	"Imvisd": [{
+	"Grammar": [{
 		"Target": "Chart",
 		"Criteria": [{
 			"id": "ALL",
@@ -13,7 +13,7 @@
 		"Target": "Scene",
 		"Interaction": [
 		{
-			"name": "ControlFaceTo",
+			"name": "move",
 		}]
 	}
 	]

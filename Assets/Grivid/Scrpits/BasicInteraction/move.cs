@@ -7,7 +7,7 @@ public class move : MonoBehaviour
     private GameObject canmera;
     private void Start() {
         canmera = Camera.main.gameObject;
-        if (!GameObject.Find("ImvisdMove(Clone)"))
+        if (!GameObject.Find("GrividPrefab(Clone)"))
             Instantiate(GrividPrefab.Instance.MovePrefab).transform.position = new Vector3(-0.2f,-0.1f,0.5f);
     }
     public void Forward() {
